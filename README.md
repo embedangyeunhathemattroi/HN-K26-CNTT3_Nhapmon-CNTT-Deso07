@@ -3,10 +3,10 @@
 Website **đặt lịch** *spa*.
 
 | Thư mục | Nội dung | 
-|---|---|---|
-| `docs` | Tài liệu bàn giao | 
-| `data` | Bảng tính hóa đơn spa |
-| `logs` | Log truy cập website | 
+|---|---|
+| docs | Tài liệu bàn giao | 
+| data | Bảng tính hóa đơn spa |
+| logs | Log truy cập website | 
 
 ```powershell
 Get-ChildItem -Recurse -Force
